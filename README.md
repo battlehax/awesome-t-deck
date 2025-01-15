@@ -17,6 +17,7 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 - [Marauder](https://github.com/jstockdale/ESP32Marauder-T-Deck/tree/t-deck) A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 (Release Bins folder in repo)
 - [Tulipcc](https://github.com/shorepine/tulipcc/tree/main/tulip/tdeck) The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [acid-drop](https://github.com/acidvegas/acid-drop) IRC client
+- [Faux86 port](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc) Article about a port of the [Faux86](https://github.com/jhhoward/Faux86) emulator. Open an issue if you find the bin!
 
 ## Other Stuff
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
