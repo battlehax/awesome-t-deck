@@ -14,7 +14,7 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 - [Meshtastic](https://meshtastic.org/docs/hardware/devices/lilygo/tdeck/) An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices (MUI in development!)
 - [Ripple](https://buymeacoffee.com/ripplebiz) off-grid mesh radio networks
 - [Bruce](https://github.com/pr3y/Bruce) Bruce is meant to be a versatile ESP32 firmware that supports a ton of offensive features focusing on facilitating Red Team operations.
-- [Marauder](https://github.com/jstockdale/ESP32Marauder-T-Deck/tree/t-deck) A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 (Release Bins folder in repo)
+- [Marauder](https://github.com/jstockdale/ESP32Marauder-T-Deck/tree/t-deck) A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 (Release Bins folder in repo, very early dev)
 - [Tulipcc](https://github.com/shorepine/tulipcc/tree/main/tulip/tdeck) The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [acid-drop](https://github.com/acidvegas/acid-drop) IRC client
 - [Faux86 port](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc) Article about a port of the [Faux86](https://github.com/jhhoward/Faux86) emulator. Open an issue if you find the bin!
