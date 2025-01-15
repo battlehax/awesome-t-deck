@@ -1,5 +1,5 @@
 # awesome-t-deck
-A list of awesome things for the [Lilygo T-Deck!](https://lilygo.cc/products/t-deck)
+A list of awesome things for the [LilyGO T-Deck!](https://lilygo.cc/products/t-deck)
 
 The Meshtastic documentation describes it well:
 
@@ -21,3 +21,4 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 
 ## Other Stuff
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
+- [Official repo](https://github.com/Xinyuan-LilyGO/T-Deck) LilyGO's official t-deck repo
