@@ -20,6 +20,7 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 - [Faux86 port](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc) Article about a port of the [Faux86](https://github.com/jhhoward/Faux86) emulator. Open an issue if you find the bin!
 - [T-Deck CLI](https://github.com/abdallahnatsheh/T-DECK-CLI) CLI for LilyGo T-DECK that looks like linux shell
 - [MicroHydra](https://github.com/echo-lalia/MicroHydra) MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
+- [Reticulum](https://reticulum.network/manual/hardware.html#lilygo-t-deck) Reticulum is the cryptography-based networking stack for building local and wide-area networks with readily available hardware.
   
 ## Other Stuff
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
