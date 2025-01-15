@@ -22,3 +22,5 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 ## Other Stuff
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
 - [Official repo](https://github.com/Xinyuan-LilyGO/T-Deck) LilyGO's official t-deck repo
+- [T-Deck CLI](https://github.com/abdallahnatsheh/T-DECK-CLI) CLI for LilyGo T-DECK that looks like linux shell
+- [MicroHydra](https://github.com/echo-lalia/MicroHydra) MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
