@@ -23,6 +23,7 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 - [Reticulum](https://reticulum.network/manual/hardware.html#lilygo-t-deck) Reticulum is the cryptography-based networking stack for building local and wide-area networks with readily available hardware.
 - [uLisp](http://www.ulisp.com/show?4JAO) uLisp® (pronounced "You-Lisp") is a version of the Lisp programming language specifically designed to run on microcontrollers with a limited amount of RAM
 - [IceNav](https://github.com/jgauchia/IceNav-v3) ESP32 Based GPS Navigator
+- [Tactility](https://tactility.one/) Tactility is an operating system that focuses on the ESP32 microcontroller family.
   
 ## Other Stuff
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
