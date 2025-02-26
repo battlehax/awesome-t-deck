@@ -11,7 +11,7 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 ![T-Deck Plus](https://lilygo.cc/cdn/shop/files/T-Deck-Plus-lilygo_7.jpg?width=300)
 
 ## Firmware
-- [Meshtastic](https://meshtastic.org/docs/hardware/devices/lilygo/tdeck/) An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices (MUI in development!)
+- [Meshtastic](https://meshtastic.org/docs/hardware/devices/lilygo/tdeck/) An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices. [MUI for t-deck available now!](https://meshtastic.org/blog/meshtastic-2-6-preview/)
 - [Ripple](https://buymeacoffee.com/ripplebiz) off-grid mesh radio networks
 - [Bruce](https://github.com/pr3y/Bruce) Bruce is meant to be a versatile ESP32 firmware that supports a ton of offensive features focusing on facilitating Red Team operations.
 - [Marauder](https://github.com/jstockdale/ESP32Marauder-T-Deck/tree/t-deck) A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 (Release Bins folder in repo, very early dev)
