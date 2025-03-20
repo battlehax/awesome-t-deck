@@ -17,7 +17,8 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
 - [Marauder](https://github.com/jstockdale/ESP32Marauder-T-Deck/tree/t-deck) A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 (Release Bins folder in repo, very early dev)
 - [Tulipcc](https://github.com/shorepine/tulipcc/tree/main/tulip/tdeck) The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 - [acid-drop](https://github.com/acidvegas/acid-drop) IRC client
-- [Faux86 port](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc) Article about a port of the [Faux86](https://github.com/jhhoward/Faux86) emulator. Open an issue if you find the bin!
+- [Faux86 port](https://www.hackster.io/news/chen-liang-is-turning-a-lilygo-t-deck-into-the-world-s-cutest-ibm-compatible-complete-with-windows-dd937d6da5cc) Article about a port of the [Faux86](https://github.com/jhhoward/Faux86) emulator (Open an issue if you find the bin!)
+- [MSDOS 6.22 + Windows 3.0 T-Deck](https://flasher.joyel.fr/win/) Dos 6.22 and Windows 3.0 (Open an issue if you have more info/links/source!)
 - [T-Deck CLI](https://github.com/abdallahnatsheh/T-DECK-CLI) CLI for LilyGo T-DECK that looks like linux shell
 - [MicroHydra](https://github.com/echo-lalia/MicroHydra) MicroHydra is a simple, 'OS-like', MicroPython based app switcher designed for ESP32 based devices.
 - [Reticulum](https://reticulum.network/manual/hardware.html#lilygo-t-deck) Reticulum is the cryptography-based networking stack for building local and wide-area networks with readily available hardware.
