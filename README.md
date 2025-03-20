@@ -5,7 +5,7 @@ The Meshtastic documentation describes it well:
 
 "The T-Deck is a compact device featuring a 2.8-inch IPS LCD touch screen with a resolution of 320x240 pixels, integrated with a small keyboard, trackball, microphone and speaker running on an ESP32-S3 dual-core processor. A secondary ESP32-C3 MCU is used to manage the keyboard.
 
-T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery"
+T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery
 
 ![T-Deck](https://lilygo.cc/cdn/shop/files/LILYGO-T-DECK_11.jpg?width=300)
 ![T-Deck Plus](https://lilygo.cc/cdn/shop/files/T-Deck-Plus-lilygo_7.jpg?width=300)
