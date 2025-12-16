@@ -38,3 +38,4 @@ T-Deck Plus variant also comes with a GPS module and a 2000 mAh battery
 - [IceNav](https://github.com/jgauchia/IceNav-v3) ESP32 Based GPS Navigator
 - [M5 Launcher](https://github.com/bmorcelli/M5Stick-Launcher) App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer (and now T-Deck! put firmware bins on SD and flash at boot)
 - [Official repo](https://github.com/Xinyuan-LilyGO/T-Deck) LilyGO's official t-deck repo
+- [Retro Go](https://github.com/ducalex/retro-go/tree/dev/components/retro-go/targets/t-deck-plus) Retro game emulators!
